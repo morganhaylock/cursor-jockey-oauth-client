@@ -1,5 +1,5 @@
 {
-  "client_id": "https://morganhaylock.github.io/cursor-jockey-oauth-client/oauth-client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/morganhaylock/cursor-jockey-oauth-client@v1/oauth-client.json",
   "client_name": "Cursor",
   "client_uri": "https://cursor.com",
   "logo_uri": "https://cursor.com/favicon.ico",
